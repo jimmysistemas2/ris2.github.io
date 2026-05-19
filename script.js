@@ -1,5 +1,5 @@
 let datos=[];let graficos={};const formato=new Intl.NumberFormat("es-PE");
-Papa.parse("data/datos.csv",{download:true,header:true,dynamicTyping:true,complete:function(r){datos=r.data.filter(d=>d.fecha);cargarFiltros();renderizar();}});
+Papa.parse("datos.csv",{download:true,header:true,dynamicTyping:true,complete:function(r){datos=r.data.filter(d=>d.fecha);cargarFiltros();renderizar();}});
 ["filtroMes","filtroCentro","filtroServicio"].forEach(id=>document.getElementById(id).addEventListener("change",renderizar));
 document.getElementById("btnLimpiar").addEventListener("click",()=>{filtroMes.value="TODOS";filtroCentro.value="TODOS";filtroServicio.value="TODOS";renderizar();});
 function cargarFiltros(){llenarSelect("filtroMes",unicos(datos.map(d=>d.mes)));llenarSelect("filtroCentro",unicos(datos.map(d=>d.establecimiento)));llenarSelect("filtroServicio",unicos(datos.map(d=>d.servicio)));}
