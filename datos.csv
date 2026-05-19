@@ -1,0 +1,759 @@
+fecha,mes,establecimiento,servicio,profesional,atenciones,meta,errores
+2026-01-01,2026-01,C.S. Santa Clara,Inmunizaciones,Lucía Gómez,11,29,3
+2026-01-01,2026-01,C.S. Túpac Amaru,Medicina,Luis Ramos,45,28,1
+2026-01-01,2026-01,C.S. Santa Clara,Medicina,Juan Pérez,35,51,0
+2026-01-01,2026-01,C.S. Santa Clara,Medicina,Carlos Vega,35,28,3
+2026-01-01,2026-01,C.S. Túpac Amaru,Medicina,Ana Torres,48,28,1
+2026-01-01,2026-01,C.S. Túpac Amaru,Inmunizaciones,Juan Pérez,22,27,1
+2026-01-02,2026-01,C.S. Huaycán,Inmunizaciones,Ana Torres,42,32,1
+2026-01-02,2026-01,C.S. Huaycán,Nutrición,Lucía Gómez,19,31,1
+2026-01-02,2026-01,C.S. Túpac Amaru,Psicología,Ana Torres,31,31,1
+2026-01-02,2026-01,C.S. Horacio Zevallos,Medicina,Carlos Vega,11,38,1
+2026-01-02,2026-01,C.S. Horacio Zevallos,Nutrición,Rosa Quispe,28,54,1
+2026-01-03,2026-01,C.S. Huaycán,CRED,Ana Torres,19,40,0
+2026-01-03,2026-01,C.S. Túpac Amaru,CRED,Carlos Vega,39,46,2
+2026-01-03,2026-01,C.S. San Fernando,CRED,Carlos Vega,12,32,1
+2026-01-03,2026-01,C.S. San Fernando,Odontología,Luis Ramos,17,56,1
+2026-01-03,2026-01,C.S. Fortaleza,Psicología,Juan Pérez,43,45,0
+2026-01-03,2026-01,C.S. Horacio Zevallos,CRED,Carlos Vega,39,54,0
+2026-01-03,2026-01,C.S. Puruchuco,Medicina,Luis Ramos,38,29,0
+2026-01-04,2026-01,C.S. Horacio Zevallos,CRED,Lucía Gómez,44,53,0
+2026-01-04,2026-01,C.S. Horacio Zevallos,Inmunizaciones,Lucía Gómez,30,26,1
+2026-01-04,2026-01,C.S. Huaycán,Odontología,Carlos Vega,15,56,0
+2026-01-04,2026-01,C.S. Santa Clara,CRED,Ana Torres,55,40,1
+2026-01-04,2026-01,C.S. San Fernando,Inmunizaciones,Juan Pérez,18,53,1
+2026-01-04,2026-01,C.S. Túpac Amaru,CRED,Ana Torres,35,60,0
+2026-01-04,2026-01,C.S. Horacio Zevallos,Inmunizaciones,Luis Ramos,51,49,0
+2026-01-04,2026-01,C.S. Santa Clara,Medicina,Ana Torres,17,39,2
+2026-01-04,2026-01,C.S. Santa Clara,Medicina,Rosa Quispe,45,36,0
+2026-01-05,2026-01,C.S. Fortaleza,Odontología,Rosa Quispe,42,48,1
+2026-01-05,2026-01,C.S. Túpac Amaru,CRED,Ana Torres,52,57,1
+2026-01-05,2026-01,C.S. Horacio Zevallos,Psicología,Lucía Gómez,11,54,3
+2026-01-05,2026-01,C.S. Puruchuco,Psicología,Carlos Vega,33,50,1
+2026-01-05,2026-01,C.S. San Fernando,Medicina,Rosa Quispe,48,50,0
+2026-01-05,2026-01,C.S. Santa Clara,Medicina,Ana Torres,36,35,0
+2026-01-06,2026-01,C.S. Túpac Amaru,Medicina,Juan Pérez,8,34,1
+2026-01-06,2026-01,C.S. Fortaleza,CRED,Carlos Vega,9,29,3
+2026-01-06,2026-01,C.S. Santa Clara,Nutrición,Rosa Quispe,17,41,0
+2026-01-06,2026-01,C.S. Túpac Amaru,CRED,Rosa Quispe,15,32,3
+2026-01-06,2026-01,C.S. San Fernando,Inmunizaciones,Rosa Quispe,38,44,0
+2026-01-06,2026-01,C.S. Santa Clara,Medicina,Lucía Gómez,29,41,1
+2026-01-07,2026-01,C.S. Santa Clara,Nutrición,Juan Pérez,21,58,0
+2026-01-07,2026-01,C.S. Santa Clara,Psicología,Carlos Vega,9,58,0
+2026-01-07,2026-01,C.S. Horacio Zevallos,Medicina,Lucía Gómez,24,58,0
+2026-01-07,2026-01,C.S. Santa Clara,CRED,Ana Torres,42,59,3
+2026-01-07,2026-01,C.S. Túpac Amaru,CRED,Lucía Gómez,22,37,3
+2026-01-07,2026-01,C.S. Santa Clara,Inmunizaciones,Lucía Gómez,22,37,1
+2026-01-07,2026-01,C.S. San Fernando,CRED,Lucía Gómez,9,26,3
+2026-01-07,2026-01,C.S. Huaycán,Inmunizaciones,Luis Ramos,20,47,1
+2026-01-07,2026-01,C.S. Puruchuco,Psicología,Luis Ramos,31,30,0
+2026-01-08,2026-01,C.S. Santa Clara,Inmunizaciones,Ana Torres,29,38,1
+2026-01-08,2026-01,C.S. Túpac Amaru,Nutrición,Juan Pérez,38,47,3
+2026-01-08,2026-01,C.S. Horacio Zevallos,Medicina,Lucía Gómez,15,49,3
+2026-01-08,2026-01,C.S. Horacio Zevallos,Odontología,Rosa Quispe,19,52,3
+2026-01-09,2026-01,C.S. Huaycán,Medicina,Lucía Gómez,33,54,1
+2026-01-09,2026-01,C.S. Horacio Zevallos,Medicina,Lucía Gómez,18,35,0
+2026-01-09,2026-01,C.S. Fortaleza,Odontología,Carlos Vega,37,34,1
+2026-01-09,2026-01,C.S. Puruchuco,Nutrición,Rosa Quispe,50,47,0
+2026-01-09,2026-01,C.S. Túpac Amaru,Nutrición,Ana Torres,9,25,3
+2026-01-09,2026-01,C.S. Horacio Zevallos,Psicología,Juan Pérez,41,33,1
+2026-01-09,2026-01,C.S. Puruchuco,Odontología,Ana Torres,9,41,0
+2026-01-09,2026-01,C.S. Huaycán,Nutrición,Ana Torres,45,45,0
+2026-01-09,2026-01,C.S. Túpac Amaru,Inmunizaciones,Ana Torres,11,47,1
+2026-01-10,2026-01,C.S. Túpac Amaru,Nutrición,Rosa Quispe,40,33,1
+2026-01-10,2026-01,C.S. Santa Clara,Nutrición,Carlos Vega,9,53,3
+2026-01-10,2026-01,C.S. Santa Clara,Nutrición,Juan Pérez,17,36,0
+2026-01-10,2026-01,C.S. San Fernando,Nutrición,Lucía Gómez,15,60,0
+2026-01-10,2026-01,C.S. Huaycán,Psicología,Carlos Vega,41,60,1
+2026-01-10,2026-01,C.S. Puruchuco,Medicina,Carlos Vega,11,40,0
+2026-01-10,2026-01,C.S. Huaycán,Medicina,Juan Pérez,40,53,1
+2026-01-10,2026-01,C.S. Fortaleza,Medicina,Rosa Quispe,28,57,1
+2026-01-10,2026-01,C.S. Túpac Amaru,Odontología,Lucía Gómez,25,53,1
+2026-01-11,2026-01,C.S. Puruchuco,Inmunizaciones,Carlos Vega,23,58,0
+2026-01-11,2026-01,C.S. Túpac Amaru,Odontología,Rosa Quispe,16,51,0
+2026-01-11,2026-01,C.S. San Fernando,Inmunizaciones,Luis Ramos,12,40,1
+2026-01-11,2026-01,C.S. Fortaleza,Odontología,Lucía Gómez,27,32,3
+2026-01-11,2026-01,C.S. Santa Clara,Psicología,Lucía Gómez,50,48,0
+2026-01-11,2026-01,C.S. Huaycán,Odontología,Rosa Quispe,22,31,1
+2026-01-11,2026-01,C.S. San Fernando,Odontología,Lucía Gómez,22,35,2
+2026-01-11,2026-01,C.S. San Fernando,Nutrición,Rosa Quispe,29,51,0
+2026-01-12,2026-01,C.S. Huaycán,Medicina,Lucía Gómez,31,26,0
+2026-01-12,2026-01,C.S. Túpac Amaru,Inmunizaciones,Rosa Quispe,53,26,1
+2026-01-12,2026-01,C.S. Huaycán,Nutrición,Carlos Vega,26,57,0
+2026-01-12,2026-01,C.S. Fortaleza,Odontología,Juan Pérez,13,41,0
+2026-01-12,2026-01,C.S. Fortaleza,Odontología,Luis Ramos,16,52,3
+2026-01-12,2026-01,C.S. Horacio Zevallos,CRED,Rosa Quispe,17,59,1
+2026-01-13,2026-01,C.S. San Fernando,Psicología,Luis Ramos,13,42,0
+2026-01-13,2026-01,C.S. Puruchuco,Psicología,Ana Torres,35,29,0
+2026-01-13,2026-01,C.S. Fortaleza,Psicología,Juan Pérez,24,30,1
+2026-01-13,2026-01,C.S. Puruchuco,Odontología,Juan Pérez,24,32,1
+2026-01-13,2026-01,C.S. Fortaleza,CRED,Carlos Vega,34,42,1
+2026-01-13,2026-01,C.S. Santa Clara,Medicina,Carlos Vega,53,40,0
+2026-01-13,2026-01,C.S. Santa Clara,CRED,Juan Pérez,19,37,0
+2026-01-13,2026-01,C.S. Horacio Zevallos,CRED,Carlos Vega,21,43,1
+2026-01-14,2026-01,C.S. Horacio Zevallos,Odontología,Luis Ramos,30,26,0
+2026-01-14,2026-01,C.S. Fortaleza,Medicina,Juan Pérez,54,57,1
+2026-01-14,2026-01,C.S. Santa Clara,Nutrición,Rosa Quispe,23,53,0
+2026-01-14,2026-01,C.S. Horacio Zevallos,Psicología,Rosa Quispe,50,56,1
+2026-01-14,2026-01,C.S. Puruchuco,Inmunizaciones,Carlos Vega,27,38,0
+2026-01-14,2026-01,C.S. Huaycán,Odontología,Lucía Gómez,54,33,1
+2026-01-14,2026-01,C.S. Huaycán,Medicina,Ana Torres,8,29,2
+2026-01-14,2026-01,C.S. Horacio Zevallos,CRED,Rosa Quispe,18,28,0
+2026-01-15,2026-01,C.S. Puruchuco,Inmunizaciones,Carlos Vega,50,43,1
+2026-01-15,2026-01,C.S. Santa Clara,Psicología,Luis Ramos,10,54,0
+2026-01-15,2026-01,C.S. Santa Clara,CRED,Rosa Quispe,8,41,0
+2026-01-15,2026-01,C.S. Huaycán,Nutrición,Luis Ramos,23,27,0
+2026-01-15,2026-01,C.S. Santa Clara,CRED,Ana Torres,8,46,1
+2026-01-15,2026-01,C.S. Fortaleza,Inmunizaciones,Luis Ramos,40,37,0
+2026-01-15,2026-01,C.S. Túpac Amaru,Medicina,Juan Pérez,24,30,0
+2026-01-15,2026-01,C.S. San Fernando,Nutrición,Juan Pérez,33,26,0
+2026-01-15,2026-01,C.S. Huaycán,Psicología,Ana Torres,13,58,3
+2026-01-16,2026-01,C.S. Horacio Zevallos,Psicología,Carlos Vega,32,45,2
+2026-01-16,2026-01,C.S. San Fernando,Odontología,Luis Ramos,54,34,0
+2026-01-16,2026-01,C.S. Puruchuco,Psicología,Carlos Vega,48,52,2
+2026-01-16,2026-01,C.S. Horacio Zevallos,Nutrición,Ana Torres,41,57,1
+2026-01-16,2026-01,C.S. Puruchuco,Medicina,Lucía Gómez,45,39,0
+2026-01-17,2026-01,C.S. Fortaleza,Odontología,Lucía Gómez,31,31,1
+2026-01-17,2026-01,C.S. Puruchuco,Inmunizaciones,Carlos Vega,11,26,2
+2026-01-17,2026-01,C.S. Túpac Amaru,Psicología,Ana Torres,39,41,0
+2026-01-17,2026-01,C.S. San Fernando,Medicina,Lucía Gómez,40,59,0
+2026-01-18,2026-01,C.S. Túpac Amaru,Medicina,Lucía Gómez,55,55,0
+2026-01-18,2026-01,C.S. Puruchuco,Medicina,Luis Ramos,23,38,0
+2026-01-18,2026-01,C.S. Horacio Zevallos,Psicología,Rosa Quispe,39,49,0
+2026-01-18,2026-01,C.S. San Fernando,Psicología,Luis Ramos,10,37,0
+2026-01-18,2026-01,C.S. Túpac Amaru,Odontología,Luis Ramos,24,44,1
+2026-01-18,2026-01,C.S. Túpac Amaru,Odontología,Juan Pérez,38,28,1
+2026-01-18,2026-01,C.S. Huaycán,Psicología,Juan Pérez,52,38,2
+2026-01-18,2026-01,C.S. San Fernando,CRED,Lucía Gómez,41,43,1
+2026-01-18,2026-01,C.S. San Fernando,Inmunizaciones,Juan Pérez,43,37,0
+2026-01-19,2026-01,C.S. San Fernando,Medicina,Luis Ramos,37,29,3
+2026-01-19,2026-01,C.S. Túpac Amaru,Inmunizaciones,Luis Ramos,32,38,0
+2026-01-19,2026-01,C.S. Fortaleza,Nutrición,Juan Pérez,17,58,0
+2026-01-19,2026-01,C.S. Huaycán,Odontología,Carlos Vega,48,57,0
+2026-01-20,2026-01,C.S. Horacio Zevallos,CRED,Ana Torres,39,56,1
+2026-01-20,2026-01,C.S. Fortaleza,Odontología,Juan Pérez,39,53,1
+2026-01-20,2026-01,C.S. Huaycán,Psicología,Ana Torres,34,47,1
+2026-01-20,2026-01,C.S. Huaycán,Medicina,Luis Ramos,8,45,3
+2026-01-21,2026-01,C.S. Puruchuco,Inmunizaciones,Juan Pérez,20,25,2
+2026-01-21,2026-01,C.S. Huaycán,CRED,Luis Ramos,12,50,1
+2026-01-21,2026-01,C.S. Puruchuco,Nutrición,Juan Pérez,31,52,3
+2026-01-21,2026-01,C.S. Huaycán,Medicina,Luis Ramos,14,28,3
+2026-01-21,2026-01,C.S. Horacio Zevallos,CRED,Lucía Gómez,17,40,0
+2026-01-21,2026-01,C.S. San Fernando,Nutrición,Luis Ramos,20,48,3
+2026-01-22,2026-01,C.S. Fortaleza,Psicología,Rosa Quispe,43,60,0
+2026-01-22,2026-01,C.S. Horacio Zevallos,Medicina,Juan Pérez,54,51,1
+2026-01-22,2026-01,C.S. Túpac Amaru,Odontología,Lucía Gómez,26,56,0
+2026-01-22,2026-01,C.S. Túpac Amaru,Odontología,Ana Torres,38,51,0
+2026-01-22,2026-01,C.S. Huaycán,CRED,Luis Ramos,55,41,1
+2026-01-22,2026-01,C.S. Horacio Zevallos,Odontología,Luis Ramos,38,60,2
+2026-01-22,2026-01,C.S. San Fernando,Medicina,Ana Torres,49,35,0
+2026-01-23,2026-01,C.S. Túpac Amaru,Inmunizaciones,Carlos Vega,22,53,0
+2026-01-23,2026-01,C.S. Puruchuco,Inmunizaciones,Rosa Quispe,16,60,0
+2026-01-23,2026-01,C.S. Santa Clara,Medicina,Ana Torres,29,60,0
+2026-01-23,2026-01,C.S. Huaycán,Odontología,Luis Ramos,24,37,0
+2026-01-23,2026-01,C.S. Horacio Zevallos,Inmunizaciones,Rosa Quispe,34,58,0
+2026-01-24,2026-01,C.S. Huaycán,CRED,Juan Pérez,39,42,1
+2026-01-24,2026-01,C.S. Huaycán,Odontología,Lucía Gómez,40,58,2
+2026-01-24,2026-01,C.S. Puruchuco,Odontología,Juan Pérez,25,40,1
+2026-01-24,2026-01,C.S. San Fernando,Psicología,Rosa Quispe,35,44,3
+2026-01-24,2026-01,C.S. Puruchuco,Medicina,Ana Torres,10,52,2
+2026-01-24,2026-01,C.S. Puruchuco,Inmunizaciones,Carlos Vega,39,25,0
+2026-01-24,2026-01,C.S. San Fernando,Nutrición,Rosa Quispe,36,40,3
+2026-01-25,2026-01,C.S. Santa Clara,Odontología,Ana Torres,41,31,3
+2026-01-25,2026-01,C.S. Horacio Zevallos,Psicología,Lucía Gómez,37,30,1
+2026-01-25,2026-01,C.S. Puruchuco,Medicina,Juan Pérez,16,39,1
+2026-01-25,2026-01,C.S. Fortaleza,Psicología,Lucía Gómez,27,33,2
+2026-01-26,2026-01,C.S. Túpac Amaru,Psicología,Rosa Quispe,52,32,0
+2026-01-26,2026-01,C.S. Fortaleza,CRED,Carlos Vega,45,37,1
+2026-01-26,2026-01,C.S. Huaycán,Odontología,Carlos Vega,8,25,1
+2026-01-26,2026-01,C.S. Huaycán,Inmunizaciones,Luis Ramos,28,40,1
+2026-01-26,2026-01,C.S. Túpac Amaru,Odontología,Carlos Vega,23,26,1
+2026-01-26,2026-01,C.S. Horacio Zevallos,Psicología,Luis Ramos,11,26,0
+2026-01-27,2026-01,C.S. Horacio Zevallos,Psicología,Rosa Quispe,13,41,0
+2026-01-27,2026-01,C.S. Horacio Zevallos,Inmunizaciones,Luis Ramos,22,56,0
+2026-01-27,2026-01,C.S. Horacio Zevallos,CRED,Lucía Gómez,34,48,2
+2026-01-27,2026-01,C.S. San Fernando,Odontología,Juan Pérez,26,57,0
+2026-01-27,2026-01,C.S. Santa Clara,Inmunizaciones,Ana Torres,27,37,0
+2026-01-27,2026-01,C.S. San Fernando,Odontología,Luis Ramos,26,31,1
+2026-01-27,2026-01,C.S. San Fernando,Nutrición,Ana Torres,22,56,1
+2026-01-28,2026-01,C.S. Fortaleza,Nutrición,Ana Torres,33,28,0
+2026-01-28,2026-01,C.S. Fortaleza,Nutrición,Ana Torres,34,28,2
+2026-01-28,2026-01,C.S. Fortaleza,Odontología,Rosa Quispe,36,45,2
+2026-01-28,2026-01,C.S. Fortaleza,Medicina,Ana Torres,29,37,0
+2026-01-28,2026-01,C.S. Horacio Zevallos,Nutrición,Lucía Gómez,37,27,0
+2026-01-28,2026-01,C.S. Horacio Zevallos,Psicología,Rosa Quispe,31,46,1
+2026-01-28,2026-01,C.S. Santa Clara,Medicina,Juan Pérez,13,42,0
+2026-01-28,2026-01,C.S. Huaycán,Inmunizaciones,Juan Pérez,43,38,1
+2026-01-28,2026-01,C.S. Huaycán,CRED,Rosa Quispe,13,28,2
+2026-01-29,2026-01,C.S. Santa Clara,CRED,Carlos Vega,36,37,0
+2026-01-29,2026-01,C.S. Huaycán,Psicología,Rosa Quispe,9,51,0
+2026-01-29,2026-01,C.S. Puruchuco,Psicología,Rosa Quispe,10,49,0
+2026-01-29,2026-01,C.S. San Fernando,Medicina,Juan Pérez,24,37,2
+2026-01-29,2026-01,C.S. Fortaleza,Nutrición,Luis Ramos,31,42,0
+2026-01-29,2026-01,C.S. Túpac Amaru,Medicina,Luis Ramos,55,45,0
+2026-01-29,2026-01,C.S. Huaycán,Medicina,Lucía Gómez,46,29,0
+2026-01-30,2026-01,C.S. Fortaleza,Inmunizaciones,Lucía Gómez,37,49,3
+2026-01-30,2026-01,C.S. Huaycán,Inmunizaciones,Rosa Quispe,16,56,0
+2026-01-30,2026-01,C.S. Fortaleza,Psicología,Luis Ramos,52,34,1
+2026-01-30,2026-01,C.S. Santa Clara,CRED,Luis Ramos,37,48,3
+2026-01-30,2026-01,C.S. Puruchuco,Nutrición,Juan Pérez,40,37,1
+2026-01-31,2026-01,C.S. Santa Clara,Inmunizaciones,Juan Pérez,49,27,1
+2026-01-31,2026-01,C.S. Túpac Amaru,Nutrición,Luis Ramos,18,52,0
+2026-01-31,2026-01,C.S. Fortaleza,CRED,Carlos Vega,13,38,0
+2026-01-31,2026-01,C.S. San Fernando,Inmunizaciones,Lucía Gómez,36,36,0
+2026-01-31,2026-01,C.S. Santa Clara,Inmunizaciones,Rosa Quispe,47,40,2
+2026-02-01,2026-02,C.S. Puruchuco,Psicología,Juan Pérez,26,43,0
+2026-02-01,2026-02,C.S. Túpac Amaru,CRED,Luis Ramos,24,41,0
+2026-02-01,2026-02,C.S. San Fernando,Odontología,Ana Torres,23,40,0
+2026-02-01,2026-02,C.S. Huaycán,Nutrición,Ana Torres,28,29,1
+2026-02-01,2026-02,C.S. Huaycán,Odontología,Carlos Vega,41,39,2
+2026-02-01,2026-02,C.S. Puruchuco,Medicina,Lucía Gómez,37,27,0
+2026-02-01,2026-02,C.S. Fortaleza,Inmunizaciones,Ana Torres,36,48,0
+2026-02-01,2026-02,C.S. Huaycán,Odontología,Juan Pérez,11,37,1
+2026-02-02,2026-02,C.S. Santa Clara,Medicina,Luis Ramos,40,36,1
+2026-02-02,2026-02,C.S. Túpac Amaru,CRED,Lucía Gómez,8,31,2
+2026-02-02,2026-02,C.S. Túpac Amaru,Psicología,Carlos Vega,30,38,0
+2026-02-02,2026-02,C.S. Huaycán,CRED,Ana Torres,10,38,0
+2026-02-02,2026-02,C.S. Fortaleza,Nutrición,Lucía Gómez,49,38,3
+2026-02-02,2026-02,C.S. Fortaleza,CRED,Rosa Quispe,51,48,0
+2026-02-02,2026-02,C.S. Túpac Amaru,CRED,Juan Pérez,21,27,3
+2026-02-02,2026-02,C.S. San Fernando,Nutrición,Rosa Quispe,12,51,0
+2026-02-03,2026-02,C.S. Horacio Zevallos,Nutrición,Ana Torres,48,59,0
+2026-02-03,2026-02,C.S. Horacio Zevallos,Odontología,Rosa Quispe,52,42,1
+2026-02-03,2026-02,C.S. Huaycán,Psicología,Luis Ramos,34,28,0
+2026-02-03,2026-02,C.S. Horacio Zevallos,Nutrición,Luis Ramos,34,51,0
+2026-02-03,2026-02,C.S. Puruchuco,CRED,Lucía Gómez,20,50,2
+2026-02-03,2026-02,C.S. San Fernando,Odontología,Juan Pérez,35,35,1
+2026-02-03,2026-02,C.S. Fortaleza,Medicina,Rosa Quispe,44,48,1
+2026-02-04,2026-02,C.S. Santa Clara,Medicina,Juan Pérez,43,34,2
+2026-02-04,2026-02,C.S. Puruchuco,Inmunizaciones,Juan Pérez,44,48,2
+2026-02-04,2026-02,C.S. Túpac Amaru,Odontología,Ana Torres,30,43,0
+2026-02-04,2026-02,C.S. Túpac Amaru,Odontología,Juan Pérez,14,49,1
+2026-02-04,2026-02,C.S. Puruchuco,Odontología,Luis Ramos,16,27,1
+2026-02-05,2026-02,C.S. Fortaleza,Nutrición,Lucía Gómez,32,30,2
+2026-02-05,2026-02,C.S. Túpac Amaru,Psicología,Ana Torres,48,39,1
+2026-02-05,2026-02,C.S. San Fernando,Nutrición,Ana Torres,38,36,1
+2026-02-05,2026-02,C.S. Santa Clara,Medicina,Rosa Quispe,41,35,1
+2026-02-05,2026-02,C.S. Huaycán,Medicina,Ana Torres,23,37,0
+2026-02-05,2026-02,C.S. Túpac Amaru,Psicología,Juan Pérez,50,45,0
+2026-02-06,2026-02,C.S. Túpac Amaru,Inmunizaciones,Carlos Vega,48,44,2
+2026-02-06,2026-02,C.S. San Fernando,CRED,Carlos Vega,23,52,1
+2026-02-06,2026-02,C.S. Horacio Zevallos,CRED,Rosa Quispe,40,53,0
+2026-02-06,2026-02,C.S. Fortaleza,Medicina,Carlos Vega,39,54,0
+2026-02-06,2026-02,C.S. San Fernando,Nutrición,Rosa Quispe,19,55,1
+2026-02-06,2026-02,C.S. Fortaleza,Medicina,Ana Torres,30,52,0
+2026-02-06,2026-02,C.S. Fortaleza,Inmunizaciones,Carlos Vega,40,27,0
+2026-02-07,2026-02,C.S. Santa Clara,Medicina,Lucía Gómez,28,57,0
+2026-02-07,2026-02,C.S. Fortaleza,Nutrición,Rosa Quispe,49,33,0
+2026-02-07,2026-02,C.S. Puruchuco,Medicina,Carlos Vega,54,32,0
+2026-02-07,2026-02,C.S. Santa Clara,Inmunizaciones,Luis Ramos,18,39,0
+2026-02-07,2026-02,C.S. Puruchuco,CRED,Carlos Vega,24,35,0
+2026-02-07,2026-02,C.S. Túpac Amaru,CRED,Rosa Quispe,17,41,1
+2026-02-07,2026-02,C.S. San Fernando,Odontología,Carlos Vega,24,57,0
+2026-02-07,2026-02,C.S. Huaycán,CRED,Juan Pérez,20,36,1
+2026-02-07,2026-02,C.S. Santa Clara,Psicología,Luis Ramos,51,45,1
+2026-02-08,2026-02,C.S. Puruchuco,CRED,Juan Pérez,41,28,2
+2026-02-08,2026-02,C.S. Puruchuco,CRED,Rosa Quispe,43,58,1
+2026-02-08,2026-02,C.S. Horacio Zevallos,Medicina,Luis Ramos,42,50,2
+2026-02-08,2026-02,C.S. Puruchuco,CRED,Luis Ramos,32,48,1
+2026-02-08,2026-02,C.S. Santa Clara,CRED,Luis Ramos,13,53,0
+2026-02-09,2026-02,C.S. Túpac Amaru,Psicología,Juan Pérez,26,58,0
+2026-02-09,2026-02,C.S. Huaycán,Psicología,Carlos Vega,50,45,2
+2026-02-09,2026-02,C.S. Fortaleza,Psicología,Juan Pérez,22,34,0
+2026-02-09,2026-02,C.S. Túpac Amaru,Psicología,Rosa Quispe,34,57,0
+2026-02-09,2026-02,C.S. Fortaleza,Odontología,Rosa Quispe,22,27,0
+2026-02-10,2026-02,C.S. Fortaleza,Nutrición,Luis Ramos,27,31,1
+2026-02-10,2026-02,C.S. Huaycán,Nutrición,Ana Torres,34,44,1
+2026-02-10,2026-02,C.S. Santa Clara,Odontología,Luis Ramos,47,55,0
+2026-02-10,2026-02,C.S. Santa Clara,Medicina,Ana Torres,53,34,1
+2026-02-11,2026-02,C.S. Fortaleza,Psicología,Ana Torres,50,42,1
+2026-02-11,2026-02,C.S. Puruchuco,CRED,Juan Pérez,11,60,0
+2026-02-11,2026-02,C.S. Túpac Amaru,Psicología,Carlos Vega,36,58,2
+2026-02-11,2026-02,C.S. San Fernando,Odontología,Ana Torres,8,27,0
+2026-02-12,2026-02,C.S. Fortaleza,Inmunizaciones,Ana Torres,23,35,0
+2026-02-12,2026-02,C.S. Puruchuco,Medicina,Juan Pérez,47,60,2
+2026-02-12,2026-02,C.S. Santa Clara,Odontología,Rosa Quispe,20,58,1
+2026-02-12,2026-02,C.S. Horacio Zevallos,Nutrición,Lucía Gómez,49,51,3
+2026-02-12,2026-02,C.S. Túpac Amaru,Odontología,Carlos Vega,27,29,0
+2026-02-12,2026-02,C.S. Horacio Zevallos,Medicina,Lucía Gómez,38,59,0
+2026-02-12,2026-02,C.S. San Fernando,Inmunizaciones,Lucía Gómez,37,30,2
+2026-02-12,2026-02,C.S. Horacio Zevallos,Inmunizaciones,Ana Torres,22,31,0
+2026-02-13,2026-02,C.S. Horacio Zevallos,Medicina,Juan Pérez,29,41,2
+2026-02-13,2026-02,C.S. Fortaleza,CRED,Lucía Gómez,43,52,2
+2026-02-13,2026-02,C.S. Puruchuco,Nutrición,Luis Ramos,26,38,0
+2026-02-13,2026-02,C.S. Túpac Amaru,Medicina,Ana Torres,24,40,3
+2026-02-13,2026-02,C.S. Horacio Zevallos,Odontología,Ana Torres,55,45,0
+2026-02-14,2026-02,C.S. Huaycán,Nutrición,Ana Torres,32,59,1
+2026-02-14,2026-02,C.S. San Fernando,Nutrición,Lucía Gómez,8,26,1
+2026-02-14,2026-02,C.S. Horacio Zevallos,Odontología,Carlos Vega,27,38,1
+2026-02-14,2026-02,C.S. Túpac Amaru,Nutrición,Juan Pérez,44,35,0
+2026-02-14,2026-02,C.S. Fortaleza,Medicina,Juan Pérez,14,35,0
+2026-02-14,2026-02,C.S. Santa Clara,Psicología,Juan Pérez,9,27,0
+2026-02-14,2026-02,C.S. Horacio Zevallos,Psicología,Lucía Gómez,10,29,2
+2026-02-15,2026-02,C.S. Fortaleza,Nutrición,Luis Ramos,20,59,2
+2026-02-15,2026-02,C.S. Fortaleza,Psicología,Rosa Quispe,14,40,0
+2026-02-15,2026-02,C.S. Santa Clara,Medicina,Juan Pérez,10,30,3
+2026-02-15,2026-02,C.S. Puruchuco,Psicología,Lucía Gómez,26,55,0
+2026-02-16,2026-02,C.S. Fortaleza,Psicología,Ana Torres,26,45,0
+2026-02-16,2026-02,C.S. San Fernando,CRED,Juan Pérez,30,41,0
+2026-02-16,2026-02,C.S. Fortaleza,Psicología,Luis Ramos,28,57,1
+2026-02-16,2026-02,C.S. Puruchuco,CRED,Carlos Vega,55,26,3
+2026-02-16,2026-02,C.S. San Fernando,Medicina,Rosa Quispe,41,31,0
+2026-02-17,2026-02,C.S. Horacio Zevallos,Medicina,Carlos Vega,44,38,2
+2026-02-17,2026-02,C.S. Puruchuco,Medicina,Carlos Vega,26,35,1
+2026-02-17,2026-02,C.S. Fortaleza,Nutrición,Ana Torres,26,28,0
+2026-02-17,2026-02,C.S. Huaycán,Inmunizaciones,Juan Pérez,39,36,1
+2026-02-17,2026-02,C.S. Túpac Amaru,CRED,Carlos Vega,24,35,0
+2026-02-17,2026-02,C.S. Puruchuco,Odontología,Lucía Gómez,22,56,0
+2026-02-17,2026-02,C.S. Fortaleza,Psicología,Juan Pérez,39,60,3
+2026-02-18,2026-02,C.S. Horacio Zevallos,CRED,Luis Ramos,14,50,1
+2026-02-18,2026-02,C.S. Horacio Zevallos,Medicina,Rosa Quispe,49,26,0
+2026-02-18,2026-02,C.S. Santa Clara,CRED,Luis Ramos,35,59,1
+2026-02-18,2026-02,C.S. Santa Clara,Inmunizaciones,Lucía Gómez,22,54,0
+2026-02-19,2026-02,C.S. Túpac Amaru,Psicología,Carlos Vega,49,27,0
+2026-02-19,2026-02,C.S. Túpac Amaru,CRED,Carlos Vega,17,53,2
+2026-02-19,2026-02,C.S. Túpac Amaru,Psicología,Luis Ramos,18,54,1
+2026-02-19,2026-02,C.S. Horacio Zevallos,CRED,Carlos Vega,22,33,0
+2026-02-19,2026-02,C.S. San Fernando,Psicología,Lucía Gómez,23,57,0
+2026-02-19,2026-02,C.S. Huaycán,CRED,Lucía Gómez,47,34,2
+2026-02-19,2026-02,C.S. Santa Clara,Odontología,Lucía Gómez,28,58,0
+2026-02-19,2026-02,C.S. Santa Clara,Odontología,Luis Ramos,20,41,2
+2026-02-20,2026-02,C.S. Santa Clara,Psicología,Juan Pérez,20,49,0
+2026-02-20,2026-02,C.S. Santa Clara,CRED,Lucía Gómez,27,52,0
+2026-02-20,2026-02,C.S. Santa Clara,Medicina,Lucía Gómez,14,42,0
+2026-02-20,2026-02,C.S. San Fernando,Inmunizaciones,Juan Pérez,8,50,3
+2026-02-21,2026-02,C.S. Horacio Zevallos,Odontología,Carlos Vega,48,43,1
+2026-02-21,2026-02,C.S. Fortaleza,Odontología,Luis Ramos,46,50,0
+2026-02-21,2026-02,C.S. Horacio Zevallos,Odontología,Rosa Quispe,52,51,3
+2026-02-21,2026-02,C.S. Santa Clara,Psicología,Lucía Gómez,49,39,2
+2026-02-21,2026-02,C.S. Santa Clara,Psicología,Juan Pérez,37,52,0
+2026-02-21,2026-02,C.S. Huaycán,Psicología,Lucía Gómez,14,51,0
+2026-02-21,2026-02,C.S. Puruchuco,Inmunizaciones,Lucía Gómez,53,35,0
+2026-02-22,2026-02,C.S. San Fernando,Inmunizaciones,Juan Pérez,47,51,1
+2026-02-22,2026-02,C.S. Horacio Zevallos,Psicología,Ana Torres,49,45,3
+2026-02-22,2026-02,C.S. Fortaleza,Inmunizaciones,Rosa Quispe,14,27,0
+2026-02-22,2026-02,C.S. Túpac Amaru,Odontología,Ana Torres,53,37,1
+2026-02-22,2026-02,C.S. Huaycán,Medicina,Carlos Vega,37,59,0
+2026-02-22,2026-02,C.S. Horacio Zevallos,Inmunizaciones,Carlos Vega,9,48,1
+2026-02-22,2026-02,C.S. Huaycán,Inmunizaciones,Lucía Gómez,37,38,2
+2026-02-23,2026-02,C.S. San Fernando,Nutrición,Juan Pérez,54,47,2
+2026-02-23,2026-02,C.S. Fortaleza,CRED,Luis Ramos,32,50,0
+2026-02-23,2026-02,C.S. Fortaleza,Medicina,Rosa Quispe,34,47,1
+2026-02-23,2026-02,C.S. Huaycán,Medicina,Ana Torres,27,50,1
+2026-02-23,2026-02,C.S. Santa Clara,Inmunizaciones,Rosa Quispe,21,35,0
+2026-02-24,2026-02,C.S. Puruchuco,Psicología,Ana Torres,38,60,2
+2026-02-24,2026-02,C.S. Santa Clara,Odontología,Luis Ramos,50,51,1
+2026-02-24,2026-02,C.S. Huaycán,Nutrición,Lucía Gómez,16,55,0
+2026-02-24,2026-02,C.S. Puruchuco,Odontología,Luis Ramos,53,49,2
+2026-02-25,2026-02,C.S. San Fernando,Psicología,Ana Torres,38,25,3
+2026-02-25,2026-02,C.S. Horacio Zevallos,CRED,Luis Ramos,23,44,0
+2026-02-25,2026-02,C.S. San Fernando,Inmunizaciones,Rosa Quispe,47,30,2
+2026-02-25,2026-02,C.S. Huaycán,Odontología,Luis Ramos,32,28,0
+2026-02-25,2026-02,C.S. Puruchuco,Nutrición,Luis Ramos,16,58,3
+2026-02-25,2026-02,C.S. Huaycán,Psicología,Carlos Vega,8,25,0
+2026-02-26,2026-02,C.S. Horacio Zevallos,CRED,Luis Ramos,46,31,1
+2026-02-26,2026-02,C.S. Santa Clara,Odontología,Ana Torres,36,47,3
+2026-02-26,2026-02,C.S. Santa Clara,Odontología,Rosa Quispe,42,35,1
+2026-02-26,2026-02,C.S. Horacio Zevallos,Nutrición,Juan Pérez,50,60,3
+2026-02-27,2026-02,C.S. Puruchuco,CRED,Ana Torres,39,38,1
+2026-02-27,2026-02,C.S. Fortaleza,Psicología,Rosa Quispe,50,32,1
+2026-02-27,2026-02,C.S. Fortaleza,CRED,Rosa Quispe,22,33,1
+2026-02-27,2026-02,C.S. San Fernando,Nutrición,Juan Pérez,38,54,0
+2026-02-27,2026-02,C.S. Horacio Zevallos,Inmunizaciones,Ana Torres,39,35,1
+2026-02-27,2026-02,C.S. Túpac Amaru,Psicología,Juan Pérez,18,45,1
+2026-02-27,2026-02,C.S. Horacio Zevallos,Nutrición,Rosa Quispe,50,43,3
+2026-02-27,2026-02,C.S. San Fernando,CRED,Rosa Quispe,34,29,0
+2026-02-27,2026-02,C.S. Horacio Zevallos,CRED,Lucía Gómez,49,26,0
+2026-02-28,2026-02,C.S. Fortaleza,Psicología,Lucía Gómez,29,31,1
+2026-02-28,2026-02,C.S. San Fernando,Inmunizaciones,Ana Torres,10,38,2
+2026-02-28,2026-02,C.S. San Fernando,Psicología,Ana Torres,29,31,3
+2026-02-28,2026-02,C.S. Horacio Zevallos,CRED,Luis Ramos,38,58,1
+2026-02-28,2026-02,C.S. Puruchuco,Odontología,Luis Ramos,35,46,1
+2026-02-28,2026-02,C.S. Huaycán,Nutrición,Juan Pérez,26,43,0
+2026-02-28,2026-02,C.S. Puruchuco,Inmunizaciones,Rosa Quispe,29,57,0
+2026-02-28,2026-02,C.S. Puruchuco,Nutrición,Luis Ramos,21,56,3
+2026-03-01,2026-03,C.S. Huaycán,Odontología,Luis Ramos,53,44,0
+2026-03-01,2026-03,C.S. Túpac Amaru,Psicología,Juan Pérez,10,50,2
+2026-03-01,2026-03,C.S. Túpac Amaru,Inmunizaciones,Carlos Vega,44,28,1
+2026-03-01,2026-03,C.S. Huaycán,Medicina,Juan Pérez,10,37,3
+2026-03-02,2026-03,C.S. Túpac Amaru,Psicología,Juan Pérez,40,59,1
+2026-03-02,2026-03,C.S. San Fernando,Nutrición,Ana Torres,48,30,0
+2026-03-02,2026-03,C.S. Fortaleza,Psicología,Lucía Gómez,37,36,0
+2026-03-02,2026-03,C.S. Horacio Zevallos,Odontología,Juan Pérez,34,31,2
+2026-03-02,2026-03,C.S. Fortaleza,CRED,Ana Torres,27,60,2
+2026-03-02,2026-03,C.S. Huaycán,CRED,Ana Torres,34,27,0
+2026-03-02,2026-03,C.S. Fortaleza,Inmunizaciones,Carlos Vega,49,28,1
+2026-03-03,2026-03,C.S. Túpac Amaru,Medicina,Juan Pérez,34,50,1
+2026-03-03,2026-03,C.S. Fortaleza,Medicina,Lucía Gómez,32,34,1
+2026-03-03,2026-03,C.S. Puruchuco,Inmunizaciones,Carlos Vega,14,30,2
+2026-03-03,2026-03,C.S. San Fernando,Odontología,Ana Torres,48,25,1
+2026-03-03,2026-03,C.S. Fortaleza,Medicina,Lucía Gómez,50,32,3
+2026-03-03,2026-03,C.S. Fortaleza,Odontología,Juan Pérez,16,55,0
+2026-03-03,2026-03,C.S. Huaycán,Psicología,Carlos Vega,23,53,2
+2026-03-03,2026-03,C.S. Horacio Zevallos,Odontología,Juan Pérez,31,34,2
+2026-03-04,2026-03,C.S. Huaycán,Psicología,Carlos Vega,53,56,1
+2026-03-04,2026-03,C.S. Horacio Zevallos,CRED,Juan Pérez,53,27,0
+2026-03-04,2026-03,C.S. Fortaleza,Medicina,Lucía Gómez,51,30,1
+2026-03-04,2026-03,C.S. Huaycán,CRED,Lucía Gómez,46,35,3
+2026-03-05,2026-03,C.S. Túpac Amaru,Medicina,Luis Ramos,31,53,1
+2026-03-05,2026-03,C.S. Horacio Zevallos,Odontología,Ana Torres,15,48,2
+2026-03-05,2026-03,C.S. Santa Clara,Psicología,Rosa Quispe,38,49,3
+2026-03-05,2026-03,C.S. Puruchuco,Inmunizaciones,Luis Ramos,44,46,0
+2026-03-05,2026-03,C.S. Huaycán,Medicina,Carlos Vega,49,46,3
+2026-03-05,2026-03,C.S. Túpac Amaru,Psicología,Juan Pérez,17,44,1
+2026-03-05,2026-03,C.S. San Fernando,Odontología,Rosa Quispe,32,49,1
+2026-03-06,2026-03,C.S. Puruchuco,Inmunizaciones,Luis Ramos,52,25,0
+2026-03-06,2026-03,C.S. Huaycán,CRED,Rosa Quispe,18,27,0
+2026-03-06,2026-03,C.S. Puruchuco,Odontología,Carlos Vega,17,42,3
+2026-03-06,2026-03,C.S. Puruchuco,Nutrición,Lucía Gómez,39,47,1
+2026-03-06,2026-03,C.S. Fortaleza,Nutrición,Carlos Vega,39,49,0
+2026-03-07,2026-03,C.S. Santa Clara,CRED,Carlos Vega,11,50,1
+2026-03-07,2026-03,C.S. Horacio Zevallos,Odontología,Luis Ramos,45,25,3
+2026-03-07,2026-03,C.S. San Fernando,Inmunizaciones,Carlos Vega,13,59,3
+2026-03-07,2026-03,C.S. Huaycán,Medicina,Ana Torres,33,58,0
+2026-03-07,2026-03,C.S. Puruchuco,Nutrición,Luis Ramos,38,57,1
+2026-03-07,2026-03,C.S. Santa Clara,Odontología,Ana Torres,20,30,0
+2026-03-07,2026-03,C.S. Puruchuco,Psicología,Luis Ramos,31,47,1
+2026-03-07,2026-03,C.S. Puruchuco,Nutrición,Ana Torres,23,27,1
+2026-03-07,2026-03,C.S. Huaycán,Medicina,Luis Ramos,48,54,3
+2026-03-08,2026-03,C.S. Santa Clara,CRED,Carlos Vega,9,47,0
+2026-03-08,2026-03,C.S. Túpac Amaru,Nutrición,Juan Pérez,14,27,0
+2026-03-08,2026-03,C.S. Puruchuco,Nutrición,Rosa Quispe,45,38,0
+2026-03-08,2026-03,C.S. Puruchuco,CRED,Rosa Quispe,14,53,3
+2026-03-09,2026-03,C.S. Puruchuco,Nutrición,Ana Torres,24,27,0
+2026-03-09,2026-03,C.S. Santa Clara,Odontología,Rosa Quispe,13,26,0
+2026-03-09,2026-03,C.S. Fortaleza,Nutrición,Luis Ramos,53,54,1
+2026-03-09,2026-03,C.S. Puruchuco,Medicina,Carlos Vega,48,50,0
+2026-03-09,2026-03,C.S. Horacio Zevallos,Medicina,Luis Ramos,28,39,2
+2026-03-09,2026-03,C.S. Fortaleza,Psicología,Carlos Vega,33,36,1
+2026-03-09,2026-03,C.S. Puruchuco,Odontología,Luis Ramos,23,39,0
+2026-03-09,2026-03,C.S. Fortaleza,CRED,Luis Ramos,11,60,0
+2026-03-10,2026-03,C.S. Huaycán,Nutrición,Lucía Gómez,55,55,0
+2026-03-10,2026-03,C.S. Fortaleza,Odontología,Luis Ramos,8,37,2
+2026-03-10,2026-03,C.S. Horacio Zevallos,CRED,Carlos Vega,45,53,3
+2026-03-10,2026-03,C.S. Horacio Zevallos,Medicina,Rosa Quispe,28,48,0
+2026-03-11,2026-03,C.S. Fortaleza,CRED,Rosa Quispe,32,35,1
+2026-03-11,2026-03,C.S. Santa Clara,Odontología,Lucía Gómez,8,54,2
+2026-03-11,2026-03,C.S. Santa Clara,Medicina,Ana Torres,22,29,1
+2026-03-11,2026-03,C.S. Puruchuco,CRED,Lucía Gómez,16,53,0
+2026-03-11,2026-03,C.S. San Fernando,Medicina,Lucía Gómez,12,53,0
+2026-03-11,2026-03,C.S. Huaycán,Odontología,Rosa Quispe,15,48,0
+2026-03-11,2026-03,C.S. Huaycán,Odontología,Lucía Gómez,11,36,2
+2026-03-12,2026-03,C.S. Túpac Amaru,Odontología,Rosa Quispe,17,42,1
+2026-03-12,2026-03,C.S. San Fernando,Odontología,Ana Torres,9,42,1
+2026-03-12,2026-03,C.S. Puruchuco,CRED,Luis Ramos,18,41,1
+2026-03-12,2026-03,C.S. Fortaleza,CRED,Rosa Quispe,38,32,0
+2026-03-12,2026-03,C.S. Túpac Amaru,Medicina,Lucía Gómez,50,38,1
+2026-03-12,2026-03,C.S. San Fernando,CRED,Juan Pérez,24,37,0
+2026-03-12,2026-03,C.S. San Fernando,CRED,Ana Torres,23,31,1
+2026-03-13,2026-03,C.S. San Fernando,Odontología,Juan Pérez,54,43,0
+2026-03-13,2026-03,C.S. Horacio Zevallos,Medicina,Rosa Quispe,40,46,1
+2026-03-13,2026-03,C.S. Santa Clara,Inmunizaciones,Juan Pérez,41,43,0
+2026-03-13,2026-03,C.S. Huaycán,Inmunizaciones,Juan Pérez,34,38,0
+2026-03-13,2026-03,C.S. Túpac Amaru,Odontología,Ana Torres,19,58,3
+2026-03-13,2026-03,C.S. Santa Clara,Psicología,Ana Torres,20,30,3
+2026-03-14,2026-03,C.S. Túpac Amaru,Psicología,Rosa Quispe,25,36,0
+2026-03-14,2026-03,C.S. Santa Clara,Nutrición,Lucía Gómez,53,37,1
+2026-03-14,2026-03,C.S. Huaycán,Odontología,Juan Pérez,12,58,1
+2026-03-14,2026-03,C.S. Puruchuco,Psicología,Juan Pérez,41,47,0
+2026-03-15,2026-03,C.S. Puruchuco,Psicología,Rosa Quispe,13,25,1
+2026-03-15,2026-03,C.S. Puruchuco,Inmunizaciones,Ana Torres,50,42,0
+2026-03-15,2026-03,C.S. Santa Clara,Nutrición,Luis Ramos,10,35,2
+2026-03-15,2026-03,C.S. Huaycán,Nutrición,Carlos Vega,8,47,1
+2026-03-15,2026-03,C.S. San Fernando,Nutrición,Juan Pérez,15,47,2
+2026-03-15,2026-03,C.S. Santa Clara,CRED,Lucía Gómez,32,28,0
+2026-03-16,2026-03,C.S. Horacio Zevallos,Inmunizaciones,Rosa Quispe,40,26,1
+2026-03-16,2026-03,C.S. Puruchuco,Nutrición,Ana Torres,9,40,0
+2026-03-16,2026-03,C.S. Santa Clara,Nutrición,Ana Torres,18,31,0
+2026-03-16,2026-03,C.S. Huaycán,Nutrición,Juan Pérez,9,31,2
+2026-03-17,2026-03,C.S. Santa Clara,CRED,Juan Pérez,46,54,1
+2026-03-17,2026-03,C.S. Santa Clara,Psicología,Rosa Quispe,14,47,3
+2026-03-17,2026-03,C.S. Fortaleza,Psicología,Ana Torres,10,42,0
+2026-03-17,2026-03,C.S. San Fernando,Inmunizaciones,Carlos Vega,40,42,0
+2026-03-17,2026-03,C.S. Fortaleza,Medicina,Rosa Quispe,16,59,1
+2026-03-17,2026-03,C.S. Santa Clara,Odontología,Ana Torres,50,54,2
+2026-03-17,2026-03,C.S. San Fernando,Odontología,Juan Pérez,48,49,2
+2026-03-17,2026-03,C.S. San Fernando,Nutrición,Carlos Vega,41,27,1
+2026-03-17,2026-03,C.S. Fortaleza,CRED,Luis Ramos,33,40,3
+2026-03-18,2026-03,C.S. Horacio Zevallos,Inmunizaciones,Carlos Vega,28,50,3
+2026-03-18,2026-03,C.S. Túpac Amaru,Medicina,Luis Ramos,41,34,2
+2026-03-18,2026-03,C.S. Huaycán,Odontología,Rosa Quispe,50,25,0
+2026-03-18,2026-03,C.S. Fortaleza,Nutrición,Ana Torres,12,45,1
+2026-03-18,2026-03,C.S. Santa Clara,Nutrición,Lucía Gómez,9,39,0
+2026-03-18,2026-03,C.S. San Fernando,Inmunizaciones,Rosa Quispe,48,27,3
+2026-03-19,2026-03,C.S. Fortaleza,Psicología,Carlos Vega,25,42,2
+2026-03-19,2026-03,C.S. Túpac Amaru,Medicina,Carlos Vega,14,41,0
+2026-03-19,2026-03,C.S. Túpac Amaru,Medicina,Rosa Quispe,23,27,0
+2026-03-19,2026-03,C.S. Fortaleza,CRED,Luis Ramos,49,35,0
+2026-03-20,2026-03,C.S. Túpac Amaru,Nutrición,Luis Ramos,13,54,1
+2026-03-20,2026-03,C.S. Túpac Amaru,Odontología,Rosa Quispe,15,57,0
+2026-03-20,2026-03,C.S. Huaycán,Inmunizaciones,Carlos Vega,26,42,0
+2026-03-20,2026-03,C.S. Horacio Zevallos,Medicina,Lucía Gómez,42,43,3
+2026-03-21,2026-03,C.S. Túpac Amaru,Psicología,Carlos Vega,22,49,0
+2026-03-21,2026-03,C.S. Túpac Amaru,Psicología,Luis Ramos,37,60,0
+2026-03-21,2026-03,C.S. Túpac Amaru,Inmunizaciones,Rosa Quispe,27,26,0
+2026-03-21,2026-03,C.S. Huaycán,Odontología,Ana Torres,40,59,1
+2026-03-21,2026-03,C.S. Túpac Amaru,Inmunizaciones,Juan Pérez,30,35,3
+2026-03-21,2026-03,C.S. Santa Clara,CRED,Carlos Vega,28,56,0
+2026-03-21,2026-03,C.S. Huaycán,Odontología,Luis Ramos,11,26,0
+2026-03-22,2026-03,C.S. Fortaleza,Nutrición,Luis Ramos,36,28,1
+2026-03-22,2026-03,C.S. San Fernando,Inmunizaciones,Luis Ramos,55,31,1
+2026-03-22,2026-03,C.S. Santa Clara,Psicología,Lucía Gómez,17,51,0
+2026-03-22,2026-03,C.S. Horacio Zevallos,CRED,Ana Torres,51,37,1
+2026-03-22,2026-03,C.S. Túpac Amaru,CRED,Carlos Vega,14,55,0
+2026-03-22,2026-03,C.S. Puruchuco,Psicología,Lucía Gómez,48,33,1
+2026-03-22,2026-03,C.S. Puruchuco,Medicina,Juan Pérez,34,60,1
+2026-03-22,2026-03,C.S. Fortaleza,Inmunizaciones,Rosa Quispe,44,34,1
+2026-03-23,2026-03,C.S. Puruchuco,Nutrición,Carlos Vega,15,49,3
+2026-03-23,2026-03,C.S. San Fernando,Psicología,Rosa Quispe,26,47,0
+2026-03-23,2026-03,C.S. Huaycán,Inmunizaciones,Carlos Vega,43,49,2
+2026-03-23,2026-03,C.S. Huaycán,Medicina,Lucía Gómez,39,49,1
+2026-03-23,2026-03,C.S. Huaycán,Odontología,Carlos Vega,27,34,1
+2026-03-23,2026-03,C.S. Túpac Amaru,Inmunizaciones,Carlos Vega,22,30,3
+2026-03-24,2026-03,C.S. Huaycán,Nutrición,Ana Torres,28,38,1
+2026-03-24,2026-03,C.S. Fortaleza,Medicina,Juan Pérez,24,56,0
+2026-03-24,2026-03,C.S. Túpac Amaru,CRED,Carlos Vega,47,52,1
+2026-03-24,2026-03,C.S. Puruchuco,Nutrición,Lucía Gómez,51,52,1
+2026-03-24,2026-03,C.S. San Fernando,CRED,Juan Pérez,46,47,1
+2026-03-24,2026-03,C.S. Fortaleza,Psicología,Juan Pérez,41,39,0
+2026-03-25,2026-03,C.S. Huaycán,Nutrición,Rosa Quispe,49,60,1
+2026-03-25,2026-03,C.S. Santa Clara,Odontología,Rosa Quispe,39,50,1
+2026-03-25,2026-03,C.S. Puruchuco,Nutrición,Carlos Vega,29,58,2
+2026-03-25,2026-03,C.S. Puruchuco,Medicina,Ana Torres,31,45,0
+2026-03-25,2026-03,C.S. Fortaleza,CRED,Carlos Vega,19,32,2
+2026-03-25,2026-03,C.S. Huaycán,Psicología,Luis Ramos,40,51,2
+2026-03-25,2026-03,C.S. Santa Clara,Nutrición,Luis Ramos,40,38,1
+2026-03-26,2026-03,C.S. San Fernando,Odontología,Juan Pérez,48,31,0
+2026-03-26,2026-03,C.S. Túpac Amaru,Psicología,Lucía Gómez,54,27,2
+2026-03-26,2026-03,C.S. San Fernando,Medicina,Juan Pérez,27,60,0
+2026-03-26,2026-03,C.S. Huaycán,Inmunizaciones,Juan Pérez,45,25,2
+2026-03-26,2026-03,C.S. Fortaleza,Odontología,Ana Torres,39,60,1
+2026-03-27,2026-03,C.S. Puruchuco,Psicología,Carlos Vega,40,34,1
+2026-03-27,2026-03,C.S. Santa Clara,Inmunizaciones,Carlos Vega,15,34,0
+2026-03-27,2026-03,C.S. Túpac Amaru,Nutrición,Juan Pérez,9,31,0
+2026-03-27,2026-03,C.S. Santa Clara,Nutrición,Rosa Quispe,37,52,3
+2026-03-27,2026-03,C.S. Puruchuco,Medicina,Lucía Gómez,8,45,0
+2026-03-27,2026-03,C.S. Horacio Zevallos,Odontología,Luis Ramos,25,35,0
+2026-03-28,2026-03,C.S. Horacio Zevallos,Medicina,Carlos Vega,12,47,0
+2026-03-28,2026-03,C.S. San Fernando,Nutrición,Rosa Quispe,9,28,0
+2026-03-28,2026-03,C.S. San Fernando,Nutrición,Juan Pérez,36,28,1
+2026-03-28,2026-03,C.S. Santa Clara,Odontología,Ana Torres,10,35,1
+2026-03-28,2026-03,C.S. Puruchuco,Odontología,Luis Ramos,8,54,0
+2026-03-28,2026-03,C.S. San Fernando,Nutrición,Luis Ramos,39,29,0
+2026-03-29,2026-03,C.S. San Fernando,Psicología,Lucía Gómez,45,39,1
+2026-03-29,2026-03,C.S. Huaycán,Inmunizaciones,Lucía Gómez,39,26,3
+2026-03-29,2026-03,C.S. Puruchuco,Odontología,Juan Pérez,19,35,0
+2026-03-29,2026-03,C.S. San Fernando,Odontología,Juan Pérez,26,50,1
+2026-03-29,2026-03,C.S. Huaycán,Medicina,Luis Ramos,42,49,0
+2026-03-29,2026-03,C.S. San Fernando,Psicología,Juan Pérez,15,52,3
+2026-03-29,2026-03,C.S. Huaycán,Nutrición,Ana Torres,32,37,1
+2026-03-29,2026-03,C.S. Huaycán,CRED,Ana Torres,35,27,0
+2026-03-29,2026-03,C.S. Horacio Zevallos,Medicina,Luis Ramos,17,40,2
+2026-03-30,2026-03,C.S. Fortaleza,Odontología,Luis Ramos,42,33,1
+2026-03-30,2026-03,C.S. San Fernando,Inmunizaciones,Ana Torres,18,48,0
+2026-03-30,2026-03,C.S. Santa Clara,Psicología,Rosa Quispe,32,38,0
+2026-03-30,2026-03,C.S. San Fernando,Nutrición,Ana Torres,22,53,2
+2026-03-30,2026-03,C.S. Santa Clara,Psicología,Luis Ramos,46,53,1
+2026-03-31,2026-03,C.S. Túpac Amaru,Odontología,Rosa Quispe,46,57,0
+2026-03-31,2026-03,C.S. Santa Clara,Medicina,Lucía Gómez,40,30,1
+2026-03-31,2026-03,C.S. Puruchuco,CRED,Lucía Gómez,32,26,2
+2026-03-31,2026-03,C.S. Horacio Zevallos,Nutrición,Ana Torres,27,25,1
+2026-03-31,2026-03,C.S. Horacio Zevallos,Medicina,Lucía Gómez,19,39,0
+2026-03-31,2026-03,C.S. Santa Clara,Psicología,Juan Pérez,12,60,0
+2026-04-01,2026-04,C.S. Puruchuco,CRED,Ana Torres,12,44,0
+2026-04-01,2026-04,C.S. Santa Clara,CRED,Ana Torres,53,50,0
+2026-04-01,2026-04,C.S. Huaycán,Inmunizaciones,Rosa Quispe,48,33,0
+2026-04-01,2026-04,C.S. Santa Clara,Medicina,Luis Ramos,51,47,1
+2026-04-01,2026-04,C.S. Fortaleza,Psicología,Lucía Gómez,52,54,0
+2026-04-01,2026-04,C.S. Puruchuco,Inmunizaciones,Luis Ramos,48,31,0
+2026-04-01,2026-04,C.S. Huaycán,Medicina,Luis Ramos,46,39,2
+2026-04-01,2026-04,C.S. Horacio Zevallos,Medicina,Rosa Quispe,10,35,1
+2026-04-02,2026-04,C.S. Puruchuco,CRED,Ana Torres,32,27,1
+2026-04-02,2026-04,C.S. Huaycán,Psicología,Lucía Gómez,19,39,1
+2026-04-02,2026-04,C.S. San Fernando,Psicología,Carlos Vega,24,52,2
+2026-04-02,2026-04,C.S. Horacio Zevallos,Nutrición,Luis Ramos,8,32,3
+2026-04-02,2026-04,C.S. Puruchuco,Psicología,Luis Ramos,10,28,0
+2026-04-03,2026-04,C.S. Fortaleza,Medicina,Luis Ramos,21,47,2
+2026-04-03,2026-04,C.S. Fortaleza,Inmunizaciones,Lucía Gómez,55,50,2
+2026-04-03,2026-04,C.S. Túpac Amaru,Odontología,Luis Ramos,41,30,0
+2026-04-03,2026-04,C.S. San Fernando,Inmunizaciones,Luis Ramos,52,57,2
+2026-04-03,2026-04,C.S. Horacio Zevallos,Psicología,Lucía Gómez,36,57,0
+2026-04-03,2026-04,C.S. Horacio Zevallos,Psicología,Ana Torres,35,57,3
+2026-04-03,2026-04,C.S. Puruchuco,Odontología,Rosa Quispe,20,27,2
+2026-04-03,2026-04,C.S. Puruchuco,Nutrición,Luis Ramos,19,59,0
+2026-04-03,2026-04,C.S. Puruchuco,Psicología,Ana Torres,42,41,0
+2026-04-04,2026-04,C.S. Santa Clara,CRED,Luis Ramos,34,30,0
+2026-04-04,2026-04,C.S. Horacio Zevallos,CRED,Ana Torres,16,56,2
+2026-04-04,2026-04,C.S. San Fernando,Odontología,Lucía Gómez,23,25,1
+2026-04-04,2026-04,C.S. Horacio Zevallos,Inmunizaciones,Ana Torres,49,47,2
+2026-04-05,2026-04,C.S. Santa Clara,Psicología,Ana Torres,45,40,0
+2026-04-05,2026-04,C.S. Horacio Zevallos,Medicina,Carlos Vega,35,35,2
+2026-04-05,2026-04,C.S. Horacio Zevallos,Odontología,Carlos Vega,37,50,3
+2026-04-05,2026-04,C.S. Santa Clara,Medicina,Lucía Gómez,26,25,0
+2026-04-05,2026-04,C.S. San Fernando,Odontología,Juan Pérez,11,42,0
+2026-04-05,2026-04,C.S. Santa Clara,Medicina,Lucía Gómez,27,53,0
+2026-04-06,2026-04,C.S. Huaycán,Inmunizaciones,Rosa Quispe,44,48,0
+2026-04-06,2026-04,C.S. Santa Clara,Nutrición,Juan Pérez,10,25,1
+2026-04-06,2026-04,C.S. Puruchuco,Inmunizaciones,Juan Pérez,55,46,2
+2026-04-06,2026-04,C.S. Túpac Amaru,CRED,Juan Pérez,49,56,1
+2026-04-06,2026-04,C.S. San Fernando,Odontología,Carlos Vega,28,25,0
+2026-04-07,2026-04,C.S. Horacio Zevallos,CRED,Lucía Gómez,47,41,2
+2026-04-07,2026-04,C.S. Santa Clara,Medicina,Ana Torres,55,26,0
+2026-04-07,2026-04,C.S. Puruchuco,Inmunizaciones,Ana Torres,26,48,0
+2026-04-07,2026-04,C.S. Horacio Zevallos,Nutrición,Lucía Gómez,18,31,3
+2026-04-08,2026-04,C.S. Puruchuco,CRED,Lucía Gómez,47,45,1
+2026-04-08,2026-04,C.S. Santa Clara,Psicología,Luis Ramos,28,39,0
+2026-04-08,2026-04,C.S. Santa Clara,Nutrición,Luis Ramos,24,40,0
+2026-04-08,2026-04,C.S. Fortaleza,Medicina,Carlos Vega,48,50,0
+2026-04-08,2026-04,C.S. Santa Clara,Inmunizaciones,Rosa Quispe,39,35,0
+2026-04-08,2026-04,C.S. Túpac Amaru,Nutrición,Lucía Gómez,13,34,2
+2026-04-08,2026-04,C.S. Santa Clara,Odontología,Ana Torres,36,50,0
+2026-04-08,2026-04,C.S. Fortaleza,Inmunizaciones,Rosa Quispe,20,38,2
+2026-04-08,2026-04,C.S. Huaycán,Medicina,Juan Pérez,47,57,1
+2026-04-09,2026-04,C.S. Huaycán,Medicina,Lucía Gómez,11,57,2
+2026-04-09,2026-04,C.S. San Fernando,CRED,Juan Pérez,36,25,2
+2026-04-09,2026-04,C.S. Puruchuco,Odontología,Lucía Gómez,18,49,0
+2026-04-09,2026-04,C.S. Fortaleza,Inmunizaciones,Carlos Vega,51,47,1
+2026-04-09,2026-04,C.S. Santa Clara,Inmunizaciones,Juan Pérez,42,45,1
+2026-04-10,2026-04,C.S. San Fernando,Nutrición,Lucía Gómez,17,50,1
+2026-04-10,2026-04,C.S. Túpac Amaru,Medicina,Juan Pérez,54,46,1
+2026-04-10,2026-04,C.S. Horacio Zevallos,CRED,Carlos Vega,44,51,0
+2026-04-10,2026-04,C.S. San Fernando,Psicología,Lucía Gómez,16,44,3
+2026-04-10,2026-04,C.S. Huaycán,Nutrición,Lucía Gómez,9,37,0
+2026-04-10,2026-04,C.S. Horacio Zevallos,Psicología,Rosa Quispe,52,30,0
+2026-04-10,2026-04,C.S. Horacio Zevallos,Nutrición,Luis Ramos,43,51,0
+2026-04-11,2026-04,C.S. Santa Clara,Nutrición,Rosa Quispe,33,41,0
+2026-04-11,2026-04,C.S. Santa Clara,Odontología,Ana Torres,43,32,0
+2026-04-11,2026-04,C.S. Puruchuco,CRED,Lucía Gómez,14,37,1
+2026-04-11,2026-04,C.S. Horacio Zevallos,CRED,Lucía Gómez,39,39,1
+2026-04-11,2026-04,C.S. San Fernando,Odontología,Carlos Vega,44,32,2
+2026-04-11,2026-04,C.S. Túpac Amaru,Nutrición,Carlos Vega,13,51,2
+2026-04-11,2026-04,C.S. Fortaleza,Inmunizaciones,Ana Torres,40,60,1
+2026-04-11,2026-04,C.S. Horacio Zevallos,Medicina,Lucía Gómez,54,57,0
+2026-04-12,2026-04,C.S. Puruchuco,Psicología,Rosa Quispe,42,35,0
+2026-04-12,2026-04,C.S. Túpac Amaru,Inmunizaciones,Juan Pérez,16,48,3
+2026-04-12,2026-04,C.S. Túpac Amaru,Medicina,Rosa Quispe,23,28,0
+2026-04-12,2026-04,C.S. Fortaleza,Medicina,Lucía Gómez,46,38,1
+2026-04-12,2026-04,C.S. Huaycán,Medicina,Lucía Gómez,16,52,0
+2026-04-12,2026-04,C.S. Túpac Amaru,Odontología,Carlos Vega,15,47,0
+2026-04-12,2026-04,C.S. Huaycán,Psicología,Luis Ramos,55,25,3
+2026-04-13,2026-04,C.S. Fortaleza,Odontología,Luis Ramos,40,58,0
+2026-04-13,2026-04,C.S. Horacio Zevallos,Inmunizaciones,Juan Pérez,46,47,0
+2026-04-13,2026-04,C.S. Huaycán,Nutrición,Luis Ramos,46,32,0
+2026-04-13,2026-04,C.S. Horacio Zevallos,Odontología,Luis Ramos,30,37,2
+2026-04-13,2026-04,C.S. San Fernando,Medicina,Carlos Vega,36,32,3
+2026-04-13,2026-04,C.S. Fortaleza,Inmunizaciones,Juan Pérez,12,41,0
+2026-04-14,2026-04,C.S. Túpac Amaru,CRED,Lucía Gómez,50,49,3
+2026-04-14,2026-04,C.S. Santa Clara,Nutrición,Luis Ramos,42,42,1
+2026-04-14,2026-04,C.S. Fortaleza,Medicina,Luis Ramos,17,56,1
+2026-04-14,2026-04,C.S. San Fernando,Medicina,Juan Pérez,12,36,1
+2026-04-14,2026-04,C.S. Puruchuco,Psicología,Lucía Gómez,46,50,3
+2026-04-15,2026-04,C.S. Santa Clara,Psicología,Rosa Quispe,33,39,3
+2026-04-15,2026-04,C.S. Túpac Amaru,Nutrición,Juan Pérez,31,46,1
+2026-04-15,2026-04,C.S. Santa Clara,CRED,Ana Torres,45,27,0
+2026-04-15,2026-04,C.S. Santa Clara,CRED,Lucía Gómez,37,46,1
+2026-04-15,2026-04,C.S. San Fernando,Inmunizaciones,Luis Ramos,28,25,0
+2026-04-15,2026-04,C.S. Túpac Amaru,Inmunizaciones,Luis Ramos,22,26,0
+2026-04-15,2026-04,C.S. San Fernando,Nutrición,Juan Pérez,48,34,2
+2026-04-16,2026-04,C.S. Santa Clara,CRED,Rosa Quispe,25,29,1
+2026-04-16,2026-04,C.S. Huaycán,CRED,Carlos Vega,44,58,1
+2026-04-16,2026-04,C.S. Santa Clara,Psicología,Juan Pérez,43,31,3
+2026-04-16,2026-04,C.S. Santa Clara,Inmunizaciones,Lucía Gómez,44,31,0
+2026-04-16,2026-04,C.S. Puruchuco,CRED,Ana Torres,17,29,0
+2026-04-16,2026-04,C.S. Puruchuco,CRED,Lucía Gómez,31,57,3
+2026-04-16,2026-04,C.S. Horacio Zevallos,Odontología,Luis Ramos,43,50,0
+2026-04-16,2026-04,C.S. Fortaleza,Psicología,Luis Ramos,50,45,3
+2026-04-16,2026-04,C.S. San Fernando,Nutrición,Luis Ramos,23,40,0
+2026-04-17,2026-04,C.S. Santa Clara,Odontología,Juan Pérez,50,54,1
+2026-04-17,2026-04,C.S. San Fernando,Inmunizaciones,Carlos Vega,27,35,1
+2026-04-17,2026-04,C.S. Fortaleza,Odontología,Luis Ramos,54,44,0
+2026-04-17,2026-04,C.S. Horacio Zevallos,Nutrición,Carlos Vega,50,46,0
+2026-04-17,2026-04,C.S. Santa Clara,Nutrición,Juan Pérez,45,36,0
+2026-04-18,2026-04,C.S. Huaycán,Inmunizaciones,Luis Ramos,52,52,2
+2026-04-18,2026-04,C.S. Puruchuco,Medicina,Rosa Quispe,28,36,0
+2026-04-18,2026-04,C.S. Huaycán,Nutrición,Juan Pérez,18,42,0
+2026-04-18,2026-04,C.S. Horacio Zevallos,Medicina,Ana Torres,11,50,1
+2026-04-18,2026-04,C.S. Santa Clara,Nutrición,Luis Ramos,40,31,0
+2026-04-18,2026-04,C.S. Santa Clara,Psicología,Juan Pérez,16,28,0
+2026-04-18,2026-04,C.S. Fortaleza,Nutrición,Luis Ramos,54,33,0
+2026-04-18,2026-04,C.S. Santa Clara,CRED,Carlos Vega,49,25,2
+2026-04-19,2026-04,C.S. Fortaleza,Odontología,Luis Ramos,28,26,2
+2026-04-19,2026-04,C.S. San Fernando,Inmunizaciones,Carlos Vega,51,46,0
+2026-04-19,2026-04,C.S. Fortaleza,Inmunizaciones,Juan Pérez,13,46,3
+2026-04-19,2026-04,C.S. San Fernando,Nutrición,Rosa Quispe,24,54,3
+2026-04-19,2026-04,C.S. Fortaleza,Medicina,Luis Ramos,44,45,0
+2026-04-19,2026-04,C.S. San Fernando,Nutrición,Lucía Gómez,54,46,0
+2026-04-20,2026-04,C.S. Fortaleza,Odontología,Ana Torres,17,58,3
+2026-04-20,2026-04,C.S. Puruchuco,Medicina,Luis Ramos,31,52,0
+2026-04-20,2026-04,C.S. Túpac Amaru,Psicología,Carlos Vega,43,34,2
+2026-04-20,2026-04,C.S. Túpac Amaru,Nutrición,Luis Ramos,22,41,3
+2026-04-21,2026-04,C.S. San Fernando,Medicina,Lucía Gómez,27,60,2
+2026-04-21,2026-04,C.S. San Fernando,Nutrición,Luis Ramos,31,58,1
+2026-04-21,2026-04,C.S. Huaycán,Odontología,Luis Ramos,8,60,1
+2026-04-21,2026-04,C.S. Fortaleza,Psicología,Luis Ramos,17,39,1
+2026-04-21,2026-04,C.S. Puruchuco,Medicina,Juan Pérez,47,33,0
+2026-04-21,2026-04,C.S. Fortaleza,Nutrición,Carlos Vega,21,60,3
+2026-04-21,2026-04,C.S. Santa Clara,CRED,Carlos Vega,31,34,0
+2026-04-21,2026-04,C.S. Puruchuco,Psicología,Ana Torres,41,26,0
+2026-04-21,2026-04,C.S. Puruchuco,Psicología,Ana Torres,36,56,0
+2026-04-22,2026-04,C.S. Huaycán,Inmunizaciones,Rosa Quispe,21,45,3
+2026-04-22,2026-04,C.S. Fortaleza,Medicina,Lucía Gómez,54,25,0
+2026-04-22,2026-04,C.S. Puruchuco,Psicología,Rosa Quispe,51,47,0
+2026-04-22,2026-04,C.S. Santa Clara,Nutrición,Rosa Quispe,34,49,2
+2026-04-22,2026-04,C.S. Horacio Zevallos,Odontología,Juan Pérez,24,26,0
+2026-04-22,2026-04,C.S. Horacio Zevallos,Inmunizaciones,Ana Torres,22,47,0
+2026-04-22,2026-04,C.S. Huaycán,Inmunizaciones,Lucía Gómez,25,44,1
+2026-04-22,2026-04,C.S. Santa Clara,Nutrición,Ana Torres,38,42,3
+2026-04-22,2026-04,C.S. Santa Clara,CRED,Luis Ramos,13,46,0
+2026-04-23,2026-04,C.S. Puruchuco,Odontología,Ana Torres,28,53,0
+2026-04-23,2026-04,C.S. Túpac Amaru,Medicina,Ana Torres,55,48,0
+2026-04-23,2026-04,C.S. Puruchuco,Inmunizaciones,Ana Torres,35,33,0
+2026-04-23,2026-04,C.S. Horacio Zevallos,Medicina,Juan Pérez,17,25,0
+2026-04-23,2026-04,C.S. Huaycán,Odontología,Carlos Vega,55,47,0
+2026-04-23,2026-04,C.S. Puruchuco,Odontología,Rosa Quispe,51,50,0
+2026-04-23,2026-04,C.S. San Fernando,CRED,Lucía Gómez,50,50,0
+2026-04-24,2026-04,C.S. Túpac Amaru,Odontología,Ana Torres,48,25,0
+2026-04-24,2026-04,C.S. Santa Clara,Nutrición,Carlos Vega,22,52,2
+2026-04-24,2026-04,C.S. Fortaleza,Psicología,Juan Pérez,11,45,0
+2026-04-24,2026-04,C.S. Fortaleza,Medicina,Rosa Quispe,16,58,1
+2026-04-25,2026-04,C.S. Santa Clara,Odontología,Lucía Gómez,42,34,2
+2026-04-25,2026-04,C.S. Horacio Zevallos,Nutrición,Carlos Vega,15,58,0
+2026-04-25,2026-04,C.S. Puruchuco,Inmunizaciones,Juan Pérez,30,38,3
+2026-04-25,2026-04,C.S. Santa Clara,Psicología,Juan Pérez,25,36,0
+2026-04-26,2026-04,C.S. Huaycán,Medicina,Juan Pérez,20,57,0
+2026-04-26,2026-04,C.S. San Fernando,Nutrición,Luis Ramos,25,25,0
+2026-04-26,2026-04,C.S. Horacio Zevallos,Medicina,Lucía Gómez,37,59,0
+2026-04-26,2026-04,C.S. Túpac Amaru,CRED,Lucía Gómez,34,42,1
+2026-04-26,2026-04,C.S. San Fernando,CRED,Carlos Vega,34,49,0
+2026-04-26,2026-04,C.S. San Fernando,Inmunizaciones,Rosa Quispe,17,25,0
+2026-04-27,2026-04,C.S. Túpac Amaru,CRED,Lucía Gómez,47,49,0
+2026-04-27,2026-04,C.S. Puruchuco,Odontología,Lucía Gómez,15,30,3
+2026-04-27,2026-04,C.S. Túpac Amaru,Medicina,Lucía Gómez,11,50,2
+2026-04-27,2026-04,C.S. Túpac Amaru,CRED,Lucía Gómez,49,53,1
+2026-04-27,2026-04,C.S. Horacio Zevallos,CRED,Rosa Quispe,44,25,1
+2026-04-27,2026-04,C.S. Horacio Zevallos,Psicología,Rosa Quispe,40,46,1
+2026-04-27,2026-04,C.S. Túpac Amaru,Inmunizaciones,Ana Torres,48,49,0
+2026-04-27,2026-04,C.S. Horacio Zevallos,Medicina,Rosa Quispe,41,42,1
+2026-04-28,2026-04,C.S. Horacio Zevallos,CRED,Juan Pérez,48,59,2
+2026-04-28,2026-04,C.S. Santa Clara,Nutrición,Luis Ramos,24,55,3
+2026-04-28,2026-04,C.S. Horacio Zevallos,CRED,Carlos Vega,45,55,1
+2026-04-28,2026-04,C.S. Santa Clara,Odontología,Juan Pérez,41,48,1
+2026-04-28,2026-04,C.S. Santa Clara,Nutrición,Ana Torres,31,40,2
+2026-04-28,2026-04,C.S. Santa Clara,Odontología,Lucía Gómez,37,36,2
+2026-04-28,2026-04,C.S. Puruchuco,Psicología,Juan Pérez,28,49,0
+2026-04-28,2026-04,C.S. Puruchuco,Inmunizaciones,Juan Pérez,34,34,2
+2026-04-28,2026-04,C.S. Huaycán,Inmunizaciones,Juan Pérez,31,47,2
+2026-04-29,2026-04,C.S. Túpac Amaru,CRED,Rosa Quispe,50,30,0
+2026-04-29,2026-04,C.S. San Fernando,CRED,Rosa Quispe,52,32,1
+2026-04-29,2026-04,C.S. Horacio Zevallos,Inmunizaciones,Lucía Gómez,19,58,0
+2026-04-29,2026-04,C.S. Fortaleza,Psicología,Ana Torres,31,56,1
+2026-04-29,2026-04,C.S. Horacio Zevallos,Odontología,Carlos Vega,31,58,0
+2026-04-29,2026-04,C.S. Puruchuco,Inmunizaciones,Luis Ramos,9,60,0
+2026-04-29,2026-04,C.S. Fortaleza,Nutrición,Luis Ramos,11,36,0
+2026-04-29,2026-04,C.S. Horacio Zevallos,Nutrición,Luis Ramos,28,41,0
+2026-04-30,2026-04,C.S. Puruchuco,Inmunizaciones,Juan Pérez,41,56,3
+2026-04-30,2026-04,C.S. Fortaleza,Odontología,Ana Torres,35,43,1
+2026-04-30,2026-04,C.S. Puruchuco,CRED,Juan Pérez,53,53,1
+2026-04-30,2026-04,C.S. Huaycán,Medicina,Lucía Gómez,26,51,1
+2026-04-30,2026-04,C.S. Horacio Zevallos,Nutrición,Luis Ramos,30,40,1
+2026-04-30,2026-04,C.S. Puruchuco,Nutrición,Ana Torres,47,37,3

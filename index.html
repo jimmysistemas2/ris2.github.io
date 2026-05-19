@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard de Analítica en Salud</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+</head>
+<body>
+  <header class="header">
+    <div>
+      <p class="tag">Analítica de Datos + IA</p>
+      <h1>Dashboard Ejecutivo de Salud</h1>
+      <p>Monitoreo de atenciones, cumplimiento, brechas, errores y alertas gerenciales.</p>
+    </div>
+    <div class="status-card">
+      <span>Estado global</span>
+      <strong id="estadoGlobal">Calculando...</strong>
+    </div>
+  </header>
+
+  <main>
+    <section class="filters">
+      <div><label>Mes</label><select id="filtroMes"><option value="TODOS">Todos</option></select></div>
+      <div><label>Establecimiento</label><select id="filtroCentro"><option value="TODOS">Todos</option></select></div>
+      <div><label>Servicio</label><select id="filtroServicio"><option value="TODOS">Todos</option></select></div>
+      <button id="btnLimpiar">Limpiar</button>
+    </section>
+
+    <section class="kpis">
+      <article><span>Total atenciones</span><strong id="kpiAtenciones">0</strong></article>
+      <article><span>Meta acumulada</span><strong id="kpiMeta">0</strong></article>
+      <article><span>Cumplimiento</span><strong id="kpiCumplimiento">0%</strong></article>
+      <article><span>Brecha</span><strong id="kpiBrecha">0</strong></article>
+      <article><span>Errores</span><strong id="kpiErrores">0</strong></article>
+    </section>
+
+    <section class="grid">
+      <article class="panel"><h2>Tendencia mensual</h2><canvas id="chartTendencia"></canvas></article>
+      <article class="panel"><h2>Atenciones por servicio</h2><canvas id="chartServicio"></canvas></article>
+    </section>
+
+    <section class="grid">
+      <article class="panel"><h2>Cumplimiento por establecimiento</h2><canvas id="chartCentro"></canvas></article>
+      <article class="panel"><h2>Alertas inteligentes</h2><div id="alertas"></div></article>
+    </section>
+
+    <section class="panel">
+      <h2>Detalle de registros</h2>
+      <div class="table-container">
+        <table>
+          <thead><tr><th>Fecha</th><th>Mes</th><th>Establecimiento</th><th>Servicio</th><th>Profesional</th><th>Atenciones</th><th>Meta</th><th>Errores</th><th>Estado</th></tr></thead>
+          <tbody id="tabla"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer>Proyecto listo para publicar en GitHub Pages. Reemplaza <strong>data/datos.csv</strong> por tus datos reales.</footer>
+  <script src="script.js"></script>
+</body>
+</html>
